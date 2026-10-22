@@ -1,0 +1,17 @@
+---
+title: "Titulo"
+output: word_document
+date: "2026-10-22"
+---
+
+# Minicurso de R
+
+## Coisas que aprendi
+
+- Importar um banco de dados
+
+- Visualização de dados
+
+- Testes estatísticos
+
+- Criação de relatórios
